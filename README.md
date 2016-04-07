@@ -1,4 +1,4 @@
-# my_first_javascript_game_with_phaser
+# My first game with Phaser
 
 # start
 run npm install
